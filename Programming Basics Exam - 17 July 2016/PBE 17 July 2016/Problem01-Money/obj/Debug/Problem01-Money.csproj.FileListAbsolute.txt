@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem01-Money\bin\Debug\Problem01-Money.exe.config
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem01-Money\bin\Debug\Problem01-Money.exe
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem01-Money\bin\Debug\Problem01-Money.pdb
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem01-Money\obj\Debug\Problem01-Money.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem01-Money\obj\Debug\Problem01-Money.exe
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem01-Money\obj\Debug\Problem01-Money.pdb

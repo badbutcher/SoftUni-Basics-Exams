@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem02-Firm\bin\Debug\Problem02-Firm.exe.config
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem02-Firm\bin\Debug\Problem02-Firm.exe
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem02-Firm\bin\Debug\Problem02-Firm.pdb
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem02-Firm\obj\Debug\Problem02-Firm.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem02-Firm\obj\Debug\Problem02-Firm.exe
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem02-Firm\obj\Debug\Problem02-Firm.pdb

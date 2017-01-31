@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem04-Back-To-The-Past\bin\Debug\Problem04-Back-To-The-Past.exe.config
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem04-Back-To-The-Past\bin\Debug\Problem04-Back-To-The-Past.exe
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem04-Back-To-The-Past\bin\Debug\Problem04-Back-To-The-Past.pdb
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem04-Back-To-The-Past\obj\Debug\Problem04-Back-To-The-Past.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem04-Back-To-The-Past\obj\Debug\Problem04-Back-To-The-Past.exe
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem04-Back-To-The-Past\obj\Debug\Problem04-Back-To-The-Past.pdb

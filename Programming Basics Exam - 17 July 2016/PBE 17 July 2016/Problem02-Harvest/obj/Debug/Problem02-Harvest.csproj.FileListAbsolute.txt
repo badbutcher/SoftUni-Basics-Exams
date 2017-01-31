@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem02-Harvest\bin\Debug\Problem02-Harvest.exe.config
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem02-Harvest\bin\Debug\Problem02-Harvest.exe
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem02-Harvest\bin\Debug\Problem02-Harvest.pdb
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem02-Harvest\obj\Debug\Problem02-Harvest.exe
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem02-Harvest\obj\Debug\Problem02-Harvest.pdb
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem02-Harvest\obj\Debug\Problem02-Harvest.csprojResolveAssemblyReference.cache

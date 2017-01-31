@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem05-Diamond\bin\Debug\Problem05-Diamond.exe.config
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem05-Diamond\bin\Debug\Problem05-Diamond.exe
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem05-Diamond\bin\Debug\Problem05-Diamond.pdb
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem05-Diamond\obj\Debug\Problem05-Diamond.exe
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem05-Diamond\obj\Debug\Problem05-Diamond.pdb
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem05-Diamond\obj\Debug\Problem05-Diamond.csprojResolveAssemblyReference.cache

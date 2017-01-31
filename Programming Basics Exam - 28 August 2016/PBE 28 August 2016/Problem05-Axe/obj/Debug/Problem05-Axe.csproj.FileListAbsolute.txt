@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem05-Axe\bin\Debug\Problem05-Axe.exe.config
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem05-Axe\bin\Debug\Problem05-Axe.exe
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem05-Axe\bin\Debug\Problem05-Axe.pdb
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem05-Axe\obj\Debug\Problem05-Axe.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem05-Axe\obj\Debug\Problem05-Axe.exe
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem05-Axe\obj\Debug\Problem05-Axe.pdb

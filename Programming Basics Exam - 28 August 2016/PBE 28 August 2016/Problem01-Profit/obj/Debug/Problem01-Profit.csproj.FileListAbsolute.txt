@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem01-Profit\bin\Debug\Problem01-Profit.exe.config
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem01-Profit\bin\Debug\Problem01-Profit.exe
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem01-Profit\bin\Debug\Problem01-Profit.pdb
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem01-Profit\obj\Debug\Problem01-Profit.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem01-Profit\obj\Debug\Problem01-Profit.exe
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem01-Profit\obj\Debug\Problem01-Profit.pdb

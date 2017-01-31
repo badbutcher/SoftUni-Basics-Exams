@@ -1,0 +1,6 @@
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem04-Hospital\bin\Debug\Problem04-Hospital.exe.config
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem04-Hospital\bin\Debug\Problem04-Hospital.exe
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem04-Hospital\bin\Debug\Problem04-Hospital.pdb
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem04-Hospital\obj\Debug\Problem04-Hospital.csprojResolveAssemblyReference.cache
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem04-Hospital\obj\Debug\Problem04-Hospital.exe
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 28 August 2016\PBE 28 August 2016\Problem04-Hospital\obj\Debug\Problem04-Hospital.pdb

@@ -1,0 +1,5 @@
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem06-Stop-Number\bin\Debug\Problem06-Stop-Number.exe.config
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem06-Stop-Number\bin\Debug\Problem06-Stop-Number.exe
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem06-Stop-Number\bin\Debug\Problem06-Stop-Number.pdb
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem06-Stop-Number\obj\Debug\Problem06-Stop-Number.exe
+C:\Users\badbutcher\Documents\GitHub\SoftUni-Basics-Exams\Programming Basics Exam - 17 July 2016\PBE 17 July 2016\Problem06-Stop-Number\obj\Debug\Problem06-Stop-Number.pdb
