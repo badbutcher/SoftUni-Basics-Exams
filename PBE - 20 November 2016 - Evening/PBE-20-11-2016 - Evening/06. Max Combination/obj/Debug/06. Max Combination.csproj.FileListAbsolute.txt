@@ -1,0 +1,5 @@
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Evening\PBE-20-11-2016 - Evening\06. Max Combination\bin\Debug\_06.Max_Combination.exe.config
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Evening\PBE-20-11-2016 - Evening\06. Max Combination\bin\Debug\_06.Max_Combination.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Evening\PBE-20-11-2016 - Evening\06. Max Combination\bin\Debug\_06.Max_Combination.pdb
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Evening\PBE-20-11-2016 - Evening\06. Max Combination\obj\Debug\_06.Max_Combination.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Evening\PBE-20-11-2016 - Evening\06. Max Combination\obj\Debug\_06.Max_Combination.pdb

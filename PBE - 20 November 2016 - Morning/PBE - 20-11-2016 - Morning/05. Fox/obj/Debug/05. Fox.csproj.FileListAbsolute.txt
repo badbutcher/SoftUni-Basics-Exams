@@ -1,0 +1,6 @@
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Morning\PBE - 20-11-2016 - Morning\05. Fox\bin\Debug\_05.Fox.exe.config
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Morning\PBE - 20-11-2016 - Morning\05. Fox\bin\Debug\_05.Fox.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Morning\PBE - 20-11-2016 - Morning\05. Fox\bin\Debug\_05.Fox.pdb
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Morning\PBE - 20-11-2016 - Morning\05. Fox\obj\Debug\05. Fox.csprojResolveAssemblyReference.cache
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Morning\PBE - 20-11-2016 - Morning\05. Fox\obj\Debug\_05.Fox.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Morning\PBE - 20-11-2016 - Morning\05. Fox\obj\Debug\_05.Fox.pdb

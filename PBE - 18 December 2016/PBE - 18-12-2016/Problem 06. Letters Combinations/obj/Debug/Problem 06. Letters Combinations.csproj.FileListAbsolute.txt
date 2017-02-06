@@ -1,0 +1,5 @@
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 06. Letters Combinations\bin\Debug\Problem_06.Letters_Combinations.exe.config
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 06. Letters Combinations\bin\Debug\Problem_06.Letters_Combinations.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 06. Letters Combinations\bin\Debug\Problem_06.Letters_Combinations.pdb
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 06. Letters Combinations\obj\Debug\Problem_06.Letters_Combinations.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 06. Letters Combinations\obj\Debug\Problem_06.Letters_Combinations.pdb

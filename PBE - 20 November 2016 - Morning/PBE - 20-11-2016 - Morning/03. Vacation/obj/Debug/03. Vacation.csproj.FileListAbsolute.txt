@@ -1,0 +1,6 @@
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Morning\PBE - 20-11-2016 - Morning\03. Vacation\bin\Debug\_03.Vacation.exe.config
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Morning\PBE - 20-11-2016 - Morning\03. Vacation\bin\Debug\_03.Vacation.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Morning\PBE - 20-11-2016 - Morning\03. Vacation\bin\Debug\_03.Vacation.pdb
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Morning\PBE - 20-11-2016 - Morning\03. Vacation\obj\Debug\03. Vacation.csprojResolveAssemblyReference.cache
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Morning\PBE - 20-11-2016 - Morning\03. Vacation\obj\Debug\_03.Vacation.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Morning\PBE - 20-11-2016 - Morning\03. Vacation\obj\Debug\_03.Vacation.pdb

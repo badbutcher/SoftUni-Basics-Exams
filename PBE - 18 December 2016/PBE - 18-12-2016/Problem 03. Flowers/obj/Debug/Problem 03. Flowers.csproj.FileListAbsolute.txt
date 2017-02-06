@@ -1,0 +1,6 @@
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 03. Flowers\bin\Debug\Problem_03.Flowers.exe.config
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 03. Flowers\bin\Debug\Problem_03.Flowers.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 03. Flowers\bin\Debug\Problem_03.Flowers.pdb
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 03. Flowers\obj\Debug\Problem 03. Flowers.csprojResolveAssemblyReference.cache
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 03. Flowers\obj\Debug\Problem_03.Flowers.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 03. Flowers\obj\Debug\Problem_03.Flowers.pdb

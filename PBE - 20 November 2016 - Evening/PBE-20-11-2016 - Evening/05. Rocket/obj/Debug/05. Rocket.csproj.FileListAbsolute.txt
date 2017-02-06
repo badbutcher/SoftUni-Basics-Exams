@@ -1,0 +1,6 @@
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Evening\PBE-20-11-2016 - Evening\05. Rocket\bin\Debug\_05.Rocket.exe.config
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Evening\PBE-20-11-2016 - Evening\05. Rocket\bin\Debug\_05.Rocket.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Evening\PBE-20-11-2016 - Evening\05. Rocket\bin\Debug\_05.Rocket.pdb
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Evening\PBE-20-11-2016 - Evening\05. Rocket\obj\Debug\05. Rocket.csprojResolveAssemblyReference.cache
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Evening\PBE-20-11-2016 - Evening\05. Rocket\obj\Debug\_05.Rocket.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Evening\PBE-20-11-2016 - Evening\05. Rocket\obj\Debug\_05.Rocket.pdb

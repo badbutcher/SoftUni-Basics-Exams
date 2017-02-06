@@ -1,0 +1,6 @@
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Morning\PBE - 20-11-2016 - Morning\04. SoftUni Camp\bin\Debug\_04.SoftUni_Camp.exe.config
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Morning\PBE - 20-11-2016 - Morning\04. SoftUni Camp\bin\Debug\_04.SoftUni_Camp.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Morning\PBE - 20-11-2016 - Morning\04. SoftUni Camp\bin\Debug\_04.SoftUni_Camp.pdb
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Morning\PBE - 20-11-2016 - Morning\04. SoftUni Camp\obj\Debug\04. SoftUni Camp.csprojResolveAssemblyReference.cache
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Morning\PBE - 20-11-2016 - Morning\04. SoftUni Camp\obj\Debug\_04.SoftUni_Camp.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Morning\PBE - 20-11-2016 - Morning\04. SoftUni Camp\obj\Debug\_04.SoftUni_Camp.pdb

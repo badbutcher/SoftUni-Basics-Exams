@@ -1,0 +1,5 @@
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Evening\PBE-20-11-2016 - Evening\04. Logistics\bin\Debug\_04.Logistics.exe.config
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Evening\PBE-20-11-2016 - Evening\04. Logistics\bin\Debug\_04.Logistics.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Evening\PBE-20-11-2016 - Evening\04. Logistics\bin\Debug\_04.Logistics.pdb
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Evening\PBE-20-11-2016 - Evening\04. Logistics\obj\Debug\_04.Logistics.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Evening\PBE-20-11-2016 - Evening\04. Logistics\obj\Debug\_04.Logistics.pdb

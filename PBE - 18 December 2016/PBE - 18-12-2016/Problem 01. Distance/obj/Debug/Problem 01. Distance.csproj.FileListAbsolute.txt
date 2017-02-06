@@ -1,0 +1,6 @@
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 01. Distance\bin\Debug\Problem_01.Distance.exe.config
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 01. Distance\bin\Debug\Problem_01.Distance.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 01. Distance\bin\Debug\Problem_01.Distance.pdb
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 01. Distance\obj\Debug\Problem 01. Distance.csprojResolveAssemblyReference.cache
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 01. Distance\obj\Debug\Problem_01.Distance.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 01. Distance\obj\Debug\Problem_01.Distance.pdb

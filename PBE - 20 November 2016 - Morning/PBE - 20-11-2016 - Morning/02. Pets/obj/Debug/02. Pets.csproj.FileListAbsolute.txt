@@ -1,0 +1,5 @@
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Morning\PBE - 20-11-2016 - Morning\02. Pets\bin\Debug\_02.Pets.exe.config
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Morning\PBE - 20-11-2016 - Morning\02. Pets\bin\Debug\_02.Pets.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Morning\PBE - 20-11-2016 - Morning\02. Pets\bin\Debug\_02.Pets.pdb
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Morning\PBE - 20-11-2016 - Morning\02. Pets\obj\Debug\_02.Pets.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 20 November 2016 - Morning\PBE - 20-11-2016 - Morning\02. Pets\obj\Debug\_02.Pets.pdb

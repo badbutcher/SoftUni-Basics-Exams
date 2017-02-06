@@ -1,0 +1,6 @@
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 05. Christmas Hat\bin\Debug\Problem_05.Christmas_Hat.exe.config
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 05. Christmas Hat\bin\Debug\Problem_05.Christmas_Hat.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 05. Christmas Hat\bin\Debug\Problem_05.Christmas_Hat.pdb
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 05. Christmas Hat\obj\Debug\Problem 05. Christmas Hat.csprojResolveAssemblyReference.cache
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 05. Christmas Hat\obj\Debug\Problem_05.Christmas_Hat.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 05. Christmas Hat\obj\Debug\Problem_05.Christmas_Hat.pdb

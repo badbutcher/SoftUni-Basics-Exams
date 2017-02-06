@@ -1,0 +1,6 @@
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 04. Grades\bin\Debug\Problem_04.Grades.exe.config
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 04. Grades\bin\Debug\Problem_04.Grades.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 04. Grades\bin\Debug\Problem_04.Grades.pdb
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 04. Grades\obj\Debug\Problem 04. Grades.csprojResolveAssemblyReference.cache
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 04. Grades\obj\Debug\Problem_04.Grades.exe
+D:\Github\SoftUni-Basics-Exams\PBE - 18 December 2016\PBE - 18-12-2016\Problem 04. Grades\obj\Debug\Problem_04.Grades.pdb
